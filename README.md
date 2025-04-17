@@ -10,7 +10,7 @@ This website allows users to search for a five day forecast in a city of their c
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [credits](#credits)
+- [Credits](#credits)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -45,3 +45,5 @@ For questions or concerns, please contact me:
 GitHub: [JuliusC72](https://github.com/JuliusC72)
 
 Email: [72jules@gmail.com](mailto:72jules@gmail.com)
+
+Deployed Link: https://weather-dashboard-5rp1.onrender.com
